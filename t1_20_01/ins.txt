@@ -1,0 +1,45 @@
+El programa tiene un menu principal 
+1.Administrador
+2.Tecnico
+3.Mantenimiento
+4.Registrar hora
+5. Mostrar todos los empleados 
+6. Salir
+
+[10:40, 15/1/2021] Trabajo: En el primero de administrador se despliega un menu
+1. Modificar empleados
+2. Modificar equipos 
+Salir
+
+[10:40, 15/1/2021] Trabajo: Dentro del meni de modificar diapositivos seria casi lo mismo que el anterior
+[10:40, 15/1/2021] Trabajo: Dentro de esto se despliega un menu para cada uno
+Para modificar empleados sale 
+1. Ingresar nuevos enpleados: se ingresa nombre y contraseña y se selecciona que tipo de empleados es
+2. Visualixar lista de empleados: se selecciona que tipo de empleado ae va imprimir
+3. Eliminar empleado: Se selexciom que tipo de emepleafo se va eliminar, se elimina por nombre
+4. Modificar Empleado: se selexciina el tipo de empleado a modificar, se modifica buscando el nombre
+5. SALIR
+
+[10:40, 15/1/2021] Trabajo: Al regresar al menu principal en tecnico se despliegs el siguiente menu
+[10:40, 15/1/2021] Trabajo: En el 1 se ingresa los dispositivo por tipo, ip,mascara y servidor
+En el 2 se visualizan los euipos
+En el 3 se busca si hay el equipo por IP
+4 salir
+[10:40, 15/1/2021] Trabajo: Al momento de regresar al menu principal se escoge mantenimiento h se despliega el siguiente mwnu
+[10:40, 15/1/2021] Trabajo: 1 se visualizan los dispositivis
+[10:40, 15/1/2021] Trabajo: 3 se comprueba si hay dispositivos duplicados
+[10:40, 15/1/2021] Trabajo: 2 se modifican los dispositivos buscando la Ip
+[10:40, 15/1/2021] Trabajo: *IP
+[10:40, 15/1/2021] Trabajo: 5. Se busca los dispositivos por Ip
+[10:40, 15/1/2021] Trabajo: 4 se elimina disposirivos por I
+[10:40, 15/1/2021] Trabajo: 6. Salir
+[10:40, 15/1/2021] Trabajo: Regresando al menu principal vamos a la opcion 4 registrar hora
+[10:40, 15/1/2021] Trabajo: Y se despliega el siguiwntw menu
+[10:40, 15/1/2021] Trabajo: En el 4 se visualiza la hora a ña que i gresaron ños empleados
+[10:40, 15/1/2021] Trabajo: 5. Salir
+[10:40, 15/1/2021] Trabajo: Y despues para registrar la hora  se pide el nombre y la contraseña
+[10:40, 15/1/2021] Trabajo: En cada opcion se piede que eliga el tipo de empleado
+[10:40, 15/1/2021] Trabajo: Eso seria todo
+[10:40, 15/1/2021] Trabajo: Regresando al menu principal la opcion 5 imprime los empleados por arbolea
+[10:40, 15/1/2021] Trabajo: Cabe recalcar que al momento de ingresar al menu del administrador, tecnico y mantenimiento se pide el nombrr y la contraseña para ingresar a sus menua
+[10:40, 15/1/2021] Trabajo: Ahí se especifica como funciona el programa
